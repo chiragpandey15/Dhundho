@@ -1,3 +1,26 @@
-Nearly 300000 people are currently missing in India, around 400 women and children go missing every day.  While some are reunited with their families, most of them go untraced. This web-app is focused on building  a community of people where one can reach to larger audience, informing them of their missing relatives. If anyone has any updates or knows the whereabouts of these people they can actively update on the app.
+# Dhundho
 
-Special Thanks to Ankita Joshi, Ayush Kumar and Ayushi Misra for their major contribution in the project and making it successful.
+## Project Description
+Dhundho is a web application focused on addressing the issue of missing persons in India. With approximately 300,000 people currently missing and around 400 women and children going missing every day, Dhundho aims to create a community platform where individuals can reach a larger audience to inform them about their missing relatives. The primary objective is to increase the chances of reuniting families by actively sharing updates and whereabouts of missing individuals within the community.
+
+## Project Functionality
+1. **Enter Your Case**: Users can submit details about their missing relatives, providing relevant information such as their name, age, physical appearance, last known location, and any other identifying characteristics. This information will help create a comprehensive database of missing persons within the Dhundho community.
+
+2. **Update Your Case**: Users can update their existing cases with new information or developments. This feature allows individuals to provide the latest details about their missing relatives, such as possible sightings, contact information, or any other relevant updates. By actively maintaining and updating their cases, users can keep the community informed and increase the chances of finding their missing loved ones.
+
+3. **Update Missing Person's Whereabouts**: Apart from the person reporting the case, other community members can also contribute by sharing information about the whereabouts of missing individuals. If someone has knowledge or evidence regarding the location or well-being of a missing person, they can provide updates on the web application. This collaborative effort helps consolidate information and brings together resources to support the search for missing individuals.
+
+## Future Project Enhancements
+1. **Compulsory Police Complaints**: To prevent potential misuse of the platform, a future enhancement could be to make it mandatory for users to file a police complaint alongside submitting a missing persons case. This requirement ensures that the reported cases are legitimate and have official documentation, minimizing false or misleading information.
+
+2. **WhatsApp Integration**: In the future, Dhundho could expand its reach by integrating with WhatsApp, a popular messaging platform in India. This integration would allow users to receive updates and notifications about missing persons directly on their WhatsApp accounts. By leveraging WhatsApp's wide user base and accessibility, Dhundho can further enhance its impact and facilitate real-time information sharing.
+
+## Technology Stack
+Dhundho is built using Java Servlets and MySQL, employing the following technologies:
+
+- **Java Servlets**: Servlets provide the backbone of the web application, handling HTTP requests and responses, managing user sessions, and connecting with the database to store and retrieve data.
+
+- **MySQL**: MySQL is the chosen database management system for Dhundho. It securely stores all the information related to missing persons, user details, and updates, ensuring efficient data management and retrieval.
+
+## Conclusion
+Dhundho aims to create a supportive community where individuals can come together to share information and increase the chances of reuniting missing persons with their families. By leveraging Java Servlets, MySQL, and the power of technology, Dhundho provides an accessible platform for reporting missing persons, updating cases, and actively collaborating with others to locate missing individuals. With future enhancements such as compulsory police complaints and WhatsApp integration, Dhundho seeks to further strengthen its impact in addressing the issue of missing persons in India.
