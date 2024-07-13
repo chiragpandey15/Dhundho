@@ -3,9 +3,6 @@
 ## Project Description
 Dhundho is a web application focused on addressing the issue of missing persons in India. With approximately 300,000 people currently missing and around 400 women and children going missing every day, Dhundho aims to create a community platform where individuals can reach a larger audience to inform them about their missing relatives. The primary objective is to increase the chances of reuniting families by actively sharing updates and whereabouts of missing individuals within the community.
 
-<img width="1280" alt="Screenshot 2023-12-06 at 18 50 27" src="https://github.com/chiragpandey15/Dhundho/assets/23038373/b23fa5e3-287f-411a-9eba-27996d8c9397">
-<img width="1280" alt="Screenshot 2023-12-06 at 18 50 36" src="https://github.com/chiragpandey15/Dhundho/assets/23038373/ecaa1fc1-4809-4348-8196-5aba632a484b">
-<img width="1280" alt="Screenshot 2023-12-06 at 18 54 48" src="https://github.com/chiragpandey15/Dhundho/assets/23038373/467885dc-02ba-4d66-92e2-d66a3ccb156c">
 
 
 ## Project Functionality
